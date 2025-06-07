@@ -1,4 +1,8 @@
 # KeywordExtractor
+
+![Keyword Extractor](https://github.com/user-attachments/assets/df0dbe3f-6357-424f-b4ab-5a044aafdf0a)
+
+
 A simple Go tool for counting keywords in a given URL.
 
 ## Dependencies
